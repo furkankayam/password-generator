@@ -15,10 +15,10 @@ https://password-generator-furkankayam.netlify.app/
 <br>
 
 <div align="center">
-<h3>⚡Dark</h3>
+<h3>⚡Dark Mode</h3>
 <img src="./images/password-generator-dark-1.png" alt="dark-1">
 <img src="./images/password-generator-dark-2.png" alt="dark-2">
-<h3>⚡Light</h3>
+<h3>⚡Light Mode</h3>
 <img src="./images/password-generator-light-1.png" alt="light-1">
 <img src="./images/password-generator-light-2.png" alt="light-2">
 </div>
